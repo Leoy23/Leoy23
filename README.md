@@ -1,5 +1,5 @@
 <div align="center" background-color="#800080"><img width="350" height="300" alt="lee memoji" src="https://user-images.githubusercontent.com/106054421/197259207-6046069e-e6d2-46e7-9e0a-040168192d2b.png" /></div>
-<div align="center"><img height="250" width="400"src="https://user-images.githubusercontent.com/106054421/197262463-f157a0f1-49f1-40d3-b96f-56fb91854187.png" alt="Hello, it's lee!"</div>
+<div align="center"><img height="100" width="300"src="https://user-images.githubusercontent.com/106054421/197262463-f157a0f1-49f1-40d3-b96f-56fb91854187.png" alt="Hello, it's lee!"</div>
 
 
 
