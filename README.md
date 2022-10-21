@@ -1,13 +1,11 @@
-# <p align="center">Lee Young</p>
-## <p align="center">Front End Developer</p>
-![You are one with the universe ](https://user-images.githubusercontent.com/106054421/197246919-dd584511-2e9b-438a-815b-2ca23b64030e.png)
+# <p align="center">Lee Young - Front End Developer
+<img width="300" height="300" alt="You are one with the universe poster" src="(https://user-images.githubusercontent.com/106054421/197246919-dd584511-2e9b-438a-815b-2ca23b64030e.png" />
+ </p>
 <hr />
 
-
-## 👋🏾 Hi! My name is Lee and I am a Front End Software Developer
-## 👩🏾‍🎓 I'm currently a student in the FE program at [Turing School of Software and Design](https://turing.edu/)
-and a graduate from [Colorado State University](https://www.colostate.edu/)
-## My passions involve creating art 👩🏾‍🎨 and music 🎵, coding 👩🏾‍💻, and fighting to make this world more inclusive for all ✊🏾
+- 👋🏾 Hi! My name is Lee and I am a Front End Software Developer
+- 👩🏾‍🎓 I'm currently a student in the FE program at [Turing School of Software and Design](https://turing.edu/)and a graduate from [Colorado State University](https://www.colostate.edu/)
+- My passions involve creating art 👩🏾‍🎨 and music 🎵, coding 👩🏾‍💻, and fighting to make this world more inclusive for all ✊🏾
 
 <h3 align=center>Let's Connect</h3>
 <p align="center">
@@ -15,7 +13,6 @@ and a graduate from [Colorado State University](https://www.colostate.edu/)
  <a href="mailto:younglee.fe@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>  
 </p>
 <hr />
-
 
 ## Tools & Technologies:
 <p>
