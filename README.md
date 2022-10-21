@@ -1,5 +1,6 @@
 # <p align="center">console.log("Hello, world! I'm Lee!")</p>
 <div align="center"><img width="500" height="500" alt="You are one with the universe poster" src="https://user-images.githubusercontent.com/106054421/197246919-dd584511-2e9b-438a-815b-2ca23b64030e.png" /></div>
+![2685e39632cf379664a6d98e592c182e-sticker](https://user-images.githubusercontent.com/106054421/197256836-45746396-a875-4a96-b82c-f6e378d4fec2.png)
 
 <hr />
 
@@ -8,12 +9,13 @@
  <a href="https://www.linkedin.com/in/leah-young-fe/"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  <a href="mailto:younglee.fe@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>  
 </p>
+
 <hr />
 
 ## About me
 
 - 👋🏾 Hi! My name is Lee and I am a Front End Software Developer
-- 👩🏾‍🎓 I'm currently a student in the FE program at [Turing School of Software and Design](https://turing.edu/)and a graduate from [Colorado State University](https://www.colostate.edu/)
+- 👩🏾‍🎓 I'm currently a student in the FE program at [Turing School of Software and Design](https://turing.edu/) and a graduate from [Colorado State University](https://www.colostate.edu/)
 - My passions involve creating art 👩🏾‍🎨 and music 🎵, coding 👩🏾‍💻, and fighting to make this world more inclusive for all ✊🏾
 
 ## Tools & Technologies:
