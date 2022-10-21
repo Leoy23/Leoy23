@@ -1,6 +1,5 @@
 # <p align="center">console.log("Hello, world! I'm Lee!")</p>
-<div align="center"><img width="500" height="500" alt="You are one with the universe poster" src="https://user-images.githubusercontent.com/106054421/197246919-dd584511-2e9b-438a-815b-2ca23b64030e.png" /></div>
-![2685e39632cf379664a6d98e592c182e-sticker](https://user-images.githubusercontent.com/106054421/197256836-45746396-a875-4a96-b82c-f6e378d4fec2.png)
+<div align="center"><img width="500" height="500" alt="lee memoji" src="https://user-images.githubusercontent.com/106054421/197258622-b7bd2112-39ca-46e5-aada-860f0cd7674a.png" /></div>
 
 <hr />
 
