@@ -1,13 +1,7 @@
-# <p align="center">Lee Young - Front End Developer
-<img align="center" width="700" height="500" alt="You are one with the universe poster" src="https://user-images.githubusercontent.com/106054421/197246919-dd584511-2e9b-438a-815b-2ca23b64030e.png" />
- </p>
+# <p align="center">console.log("Hello, world! I'm Lee!")</p>
+<div align="center"><img width="500" height="500" alt="You are one with the universe poster" src="https://user-images.githubusercontent.com/106054421/197246919-dd584511-2e9b-438a-815b-2ca23b64030e.png" /></div>
+
 <hr />
-
-## About me
-
-- 👋🏾 Hi! My name is Lee and I am a Front End Software Developer
-- 👩🏾‍🎓 I'm currently a student in the FE program at [Turing School of Software and Design](https://turing.edu/)and a graduate from [Colorado State University](https://www.colostate.edu/)
-- My passions involve creating art 👩🏾‍🎨 and music 🎵, coding 👩🏾‍💻, and fighting to make this world more inclusive for all ✊🏾
 
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
@@ -16,10 +10,15 @@
 </p>
 <hr />
 
+## About me
+
+- 👋🏾 Hi! My name is Lee and I am a Front End Software Developer
+- 👩🏾‍🎓 I'm currently a student in the FE program at [Turing School of Software and Design](https://turing.edu/)and a graduate from [Colorado State University](https://www.colostate.edu/)
+- My passions involve creating art 👩🏾‍🎨 and music 🎵, coding 👩🏾‍💻, and fighting to make this world more inclusive for all ✊🏾
+
 ## Tools & Technologies:
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-FCDC00?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FCDC00?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-5ED3F3?style=for-the-badge&logo=react&logoColor=white" />
