@@ -1,5 +1,5 @@
 # <p align="center">console.log("Hello, world! I'm Lee!")</p>
-<div align="center"><img width="500" height="500" alt="lee memoji" src="https://user-images.githubusercontent.com/106054421/197258622-b7bd2112-39ca-46e5-aada-860f0cd7674a.png" /></div>
+<div align="center"><img width="300" height="300" alt="lee memoji" src="https://user-images.githubusercontent.com/106054421/197258622-b7bd2112-39ca-46e5-aada-860f0cd7674a.png" /></div>
 
 <hr />
 
