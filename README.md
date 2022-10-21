@@ -19,7 +19,7 @@
  
  My passions involve creating art 👩🏾‍🎨 and music 🎵, coding 👩🏾‍💻, and fighting to make this world more inclusive for all ✊🏾
 
-## Tools & Technologies:
+## Tools & Technologies
 <p>
   <img src="https://img.shields.io/badge/JavaScript-FCDC00?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
