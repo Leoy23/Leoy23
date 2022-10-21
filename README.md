@@ -1,5 +1,5 @@
 # <p align="center">Lee Young - Front End Developer
-<img width="500" height="500" alt="You are one with the universe poster" src="https://user-images.githubusercontent.com/106054421/197246919-dd584511-2e9b-438a-815b-2ca23b64030e.png" />
+<img align="center" width="700" height="500" alt="You are one with the universe poster" src="https://user-images.githubusercontent.com/106054421/197246919-dd584511-2e9b-438a-815b-2ca23b64030e.png" />
  </p>
 <hr />
 
@@ -9,8 +9,8 @@
 - 👩🏾‍🎓 I'm currently a student in the FE program at [Turing School of Software and Design](https://turing.edu/)and a graduate from [Colorado State University](https://www.colostate.edu/)
 - My passions involve creating art 👩🏾‍🎨 and music 🎵, coding 👩🏾‍💻, and fighting to make this world more inclusive for all ✊🏾
 
-<h3>Let's Connect!</h3>
-<p>
+<h3 align="center">Let's Connect!</h3>
+<p align="center">
  <a href="https://www.linkedin.com/in/leah-young-fe/"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  <a href="mailto:younglee.fe@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>  
 </p>
