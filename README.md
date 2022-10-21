@@ -13,9 +13,9 @@
 
 ## About me
 
-- 👋🏾 Hi! My name is Lee and I am a Front End Software Developer
-- 👩🏾‍🎓 I'm currently a student in the FE program at [Turing School of Software and Design](https://turing.edu/) and a graduate from [Colorado State University](https://www.colostate.edu/)
-- My passions involve creating art 👩🏾‍🎨 and music 🎵, coding 👩🏾‍💻, and fighting to make this world more inclusive for all ✊🏾
+👋🏾 Hi! My name is Lee and I am a Front End Software Developer
+👩🏾‍🎓 I'm currently a student in the FE program at [Turing School of Software and Design](https://turing.edu/) and a graduate from [Colorado State University](https://www.colostate.edu/)
+My passions involve creating art 👩🏾‍🎨 and music 🎵, coding 👩🏾‍💻, and fighting to make this world more inclusive for all ✊🏾
 
 ## Tools & Technologies:
 <p>
