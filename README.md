@@ -1,4 +1,4 @@
-<div align="center"><img width="350" height="300" alt="lee memoji" src="[https://user-images.githubusercontent.com/106054421/197259207-6046069e-e6d2-46e7-9e0a-040168192d2b.png](https://turingschool.slack.com/files/U037FJLQEJ0/F04ARF3SQ4A/image.png)" /></div>
+<div align="center"><img width="638" alt="lee-memoji" src="https://user-images.githubusercontent.com/106054421/201586736-8b88ef67-65c6-4776-81a2-18f924195351.png"></div>
 
 <hr />
 
