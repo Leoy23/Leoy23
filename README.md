@@ -3,10 +3,10 @@
 <hr />
 
 <h3 align="center">Let's Connect!</h3>
-<p align="center">
+<div align="center">
  <a href="https://www.linkedin.com/in/leah-young-fe/"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  <a href="mailto:younglee.fe@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>  
-</p>
+</div>
 
 <hr />
 
