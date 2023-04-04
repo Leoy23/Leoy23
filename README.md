@@ -1,14 +1,12 @@
 ## About me
-<div>
-👋🏾 Hi! I'm Lee, a Front End Software Developer passionate about creating functional and visually stunning websites and applications. I graduated from both [Turing School of Software and Design](https://turing.edu/) and [Colorado State University](https://www.colostate.edu/), where I gained a strong foundation in software development and human development and family studies. I'm committed to staying up-to-date with the latest technologies and events to support others.
- <br />
+
+👋🏾 Hi! I'm Lee, a Front End Software Developer and small business owner of Joven Designs LLC with a passion for creating functional and visually stunning websites and applications. I graduated from both [Turing School of Software and Design](https://turing.edu/) and [Colorado State University](https://www.colostate.edu/), where I gained a strong foundation in software development and human development and family studies. I'm committed to staying up-to-date with the latest technologies and events to support others.
 
 Aside from coding, I enjoy creating art 👩🏾‍🎨 and music 🎵, which often influence my work. I believe that technology can bring people together and create positive change, and I actively seek out opportunities to support diversity, equity, and inclusion.
 
 Outside of work, I enjoy exploring new places, trying new foods, and spending time with loved ones. I also enjoy reading books on personal growth and development, history, and culture.
 
 Thanks for getting to know me! Let's connect soon.
-</div>
 
 <h3 align="center">Let's chat!</h3>
 <div align="center">
