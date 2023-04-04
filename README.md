@@ -1,6 +1,7 @@
 ## About me
 <div>
 👋🏾 Hi! I'm Lee, a Front End Software Developer passionate about creating functional and visually stunning websites and applications. I graduated from both [Turing School of Software and Design](https://turing.edu/) and [Colorado State University](https://www.colostate.edu/), where I gained a strong foundation in software development and human development and family studies. I'm committed to staying up-to-date with the latest technologies and events to support others.
+ <br />
 
 Aside from coding, I enjoy creating art 👩🏾‍🎨 and music 🎵, which often influence my work. I believe that technology can bring people together and create positive change, and I actively seek out opportunities to support diversity, equity, and inclusion.
 
