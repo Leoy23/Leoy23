@@ -1,6 +1,15 @@
-<div align="center"><img width="638" alt="lee-memoji" src="https://user-images.githubusercontent.com/106054421/201586736-8b88ef67-65c6-4776-81a2-18f924195351.png"></div>
+## About me
+<div>
+👋🏾 Hi! My name is Lee and I'm a Front End Software Developer. I'm passionate about creating websites and applications that are both functional and visually stunning.
 
-<hr />
+I'm a proud graduate of both [Turing School of Software and Design](https://turing.edu/) and [Colorado State University](https://www.colostate.edu/). These programs have given me a strong foundation in software development, and I'm constantly working to improve my skills and stay up-to-date with the latest technologies.
+
+In addition to coding, I'm also passionate about creating art 👩🏾‍🎨 and music 🎵. I find that these creative outlets help to keep me inspired and energized, and they often influence my work as a developer.
+
+I'm committed to making the world a more inclusive place for all. I believe that technology has the power to bring people together and create positive change, and I'm always looking for ways to use my skills to make a difference.
+
+Thank you for taking the time to learn a little bit about me! I look forward to connecting with you soon.
+</div>
 
 <h3 align="center">Let's Connect!</h3>
 <div align="center">
@@ -9,14 +18,6 @@
 </div>
 
 <hr />
-
-## About me
-
-👋🏾 Hi! My name is Lee and I am a Front End Software Developer
- 
-👩🏾‍🎓 I'm a graduate from both [Turing School of Software and Design](https://turing.edu/) and [Colorado State University](https://www.colostate.edu/)
- 
- My passions involve creating art 👩🏾‍🎨 and music 🎵, coding 👩🏾‍💻, and helping to make this world more inclusive for all ✊🏾
 
 ## Tools & Technologies
 <p>
