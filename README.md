@@ -1,17 +1,15 @@
 ## About me
 <div>
-👋🏾 Hi! My name is Lee and I'm a Front End Software Developer. I'm passionate about creating websites and applications that are both functional and visually stunning.
+👋🏾 Hi! I'm Lee, a Front End Software Developer passionate about creating functional and visually stunning websites and applications. I graduated from both [Turing School of Software and Design](https://turing.edu/) and [Colorado State University](https://www.colostate.edu/), where I gained a strong foundation in software development and human development and family studies. I'm committed to staying up-to-date with the latest technologies and events to support others.
 
-I'm a proud graduate of both [Turing School of Software and Design](https://turing.edu/) and [Colorado State University](https://www.colostate.edu/). These programs have given me a strong foundation in software development, and I'm constantly working to improve my skills and stay up-to-date with the latest technologies.
+Aside from coding, I enjoy creating art 👩🏾‍🎨 and music 🎵, which often influence my work. I believe that technology can bring people together and create positive change, and I actively seek out opportunities to support diversity, equity, and inclusion.
 
-In addition to coding, I'm also passionate about creating art 👩🏾‍🎨 and music 🎵. I find that these creative outlets help to keep me inspired and energized, and they often influence my work as a developer.
+Outside of work, I enjoy exploring new places, trying new foods, and spending time with loved ones. I also enjoy reading books on personal growth and development, history, and culture.
 
-I'm committed to making the world a more inclusive place for all. I believe that technology has the power to bring people together and create positive change, and I'm always looking for ways to use my skills to make a difference.
-
-Thank you for taking the time to learn a little bit about me! I look forward to connecting with you soon.
+Thanks for getting to know me! Let's connect soon.
 </div>
 
-<h3 align="center">Let's Connect!</h3>
+<h3 align="center">Let's chat!</h3>
 <div align="center">
  <a href="https://www.linkedin.com/in/leah-young-fe/"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  <a href="mailto:younglee.fe@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>  
