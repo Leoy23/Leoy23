@@ -41,4 +41,9 @@ Thanks for getting to know me! Let's connect soon.
   <img src="https://img.shields.io/badge/TDD%20-FD8D6E.svg?&style=for-the-badge&logo=TDD&logoColor=white" alt="TDD Shield.io badge"/>
  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Shield.io badge" />
  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+ <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Vitest-%2318A058.svg?style=for-the-badge&logo=vitest&logoColor=white"/>
 </p>
