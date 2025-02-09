@@ -1,6 +1,6 @@
 ## About me
 
-👋🏾 Hi! I'm Leah/Lee, a Frontend Software Engineer with a passion for creating functional and visually stunning websites and applications. I graduated from both [Turing School of Software and Design](https://turing.edu/) and [Colorado State University](https://www.colostate.edu/), where I gained a strong foundation in software development and human development and family studies. I am currently a <a href="https://digitalcorps.gsa.gov/">U.S. Digital Corp Fellow</a> supporting projects with USGS and I am committed to staying up-to-date with the latest technologies and events to support others.
+👋🏾 Hi! I'm Leah/Lee, a Software Engineer with a passion for creating functional and visually stunning websites and applications. I graduated from both [Turing School of Software and Design](https://turing.edu/) and [Colorado State University](https://www.colostate.edu/), where I gained a strong foundation in software development and human development and family studies. I am currently a <a href="https://digitalcorps.gsa.gov/">U.S. Digital Corp Fellow</a> supporting projects with USGS and I am committed to staying up-to-date with the latest technologies and events to support others.
 
 Aside from coding, I enjoy creating art and music, which often influence my work. I believe that technology can bring people together and create positive change, and I actively seek out opportunities to support diversity, equity, and inclusion.
 
